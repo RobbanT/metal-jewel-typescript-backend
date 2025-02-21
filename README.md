@@ -1,2 +1,2 @@
-# metal-jewel-typescript
-A game written with TypeScript.
+# Metal Jewel TypeScript
+A game written in TypeScript.
